@@ -1,4 +1,4 @@
-JMM-TGT: Self-supervised 3D action recognition through joint motion masking and topology-guided transformer
+# JMM-TGT: Self-supervised 3D action recognition through joint motion masking and topology-guided transformer
 
 # Requirements
 ```bash
@@ -11,13 +11,11 @@ scikit-learn==1.1.1
 tqdm==4.64.0
 numpy==1.22.4
 ```
-
+# Raw Datasets
 PUK-MMD: http://39.96.165.147/Projects/PKUMMD/PKU-MMD.html
 
 NTU RGB+D 60\120: https://rose1.ntu.edu.sg/dataset/actionRecognition
 
-Preprocessed data and
-
-The minimal dataset for reproducing the results of this study：
+# Preprocessed data and The minimal dataset for reproducing the results of this study：
 
 https://pan.baidu.com/s/1hCc5iu24rSeW038UXsdqGA?pwd=ipv3 提取码: ipv3 
