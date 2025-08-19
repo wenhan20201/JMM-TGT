@@ -1,3 +1,4 @@
+JMM-TGT: Self-supervised 3D action recognition through joint motion masking and topology-guided transformer
 
 # Requirements
 ```bash
