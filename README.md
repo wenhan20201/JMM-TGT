@@ -1,8 +1,8 @@
 # JMM-TGT: Self-supervised 3D action recognition through joint motion masking and topology-guided transformer
 Han Wen, Guangping Zeng, Qingchuan Zhang, Zihan Li, Mengyang Zhu
 
-[Wen H, Zeng G, Zhang Q, Li Z,
-Zhu M (2025) JMM-TGT: Self-supervised 3D action recognition through joint motion masking and topology-guided transformer. PLoS One 20(12): e0338008.](https://doi.org/10.1371/journal.pone.0338008)
+Wen H, Zeng G, Zhang Q, Li Z,
+Zhu M (2025) [JMM-TGT: Self-supervised 3D action recognition through joint motion masking and topology-guided transformer.](https://doi.org/10.1371/journal.pone.0338008) PLoS One 20(12): e0338008.
 
 ![](images/Fig1.tif)
 ![](images/Fig2.tif)
